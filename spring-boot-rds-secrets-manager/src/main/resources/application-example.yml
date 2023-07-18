@@ -1,0 +1,8 @@
+cloud:
+  aws:
+    region:
+      static:
+      auto:
+    credentials:
+      access-key:
+      secrets-key:
